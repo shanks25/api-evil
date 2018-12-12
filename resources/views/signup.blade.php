@@ -80,7 +80,7 @@
             <div class="content">
                 <div class="title m-b-md">
  
-                 <h2>   Signup Page</h2>
+                 <h1>   Signup Page</h1>
  
                 </div>
 
