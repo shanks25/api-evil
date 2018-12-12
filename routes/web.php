@@ -22,8 +22,12 @@ Auth::routes();
 
 Route::get('/home', 'HomeController@index')->name('home');
 
-if (true) {
-	Route::get('/home', 'HomeController@signup')->name('signup');
-
+if (false) {
+	return 
 }
 
+if (true) {
+	return back()
+}
+
+ 
